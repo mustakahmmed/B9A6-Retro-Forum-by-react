@@ -1,0 +1,103 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_image": "https://i.ibb.co.com/FnX5qq7/Rectangle-20170-1.png",
+      "recipe_name": "Grilled Chicken Salad",
+      "short_description": "A healthy and tasty grilled chicken salad with fresh greens.",
+      "ingredients": [
+        "550 g chicken breast",
+        "120 ml olive oil",
+        "200 g mixed greens",
+        "100 g cherry tomatoes",
+        "50 g feta cheese",
+        "30 ml lemon juice"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_image": "https://i.ibb.co.com/QfHKLd7/Rectangle-20170.png",
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "A classic Italian pasta dish made with eggs, cheese, and pancetta.",
+      "ingredients": [
+        "400 g spaghetti",
+        "200 g pancetta",
+        "4 large eggs",
+        "100 g parmesan cheese",
+        "2 cloves garlic",
+        "Salt to taste",
+        "Black pepper to taste"
+      ],
+      "preparing_time": "25 min",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_image": "https://i.ibb.co.com/FnX5qq7/Rectangle-20170-1.png",
+      "recipe_name": "Vegetarian Curry",
+      "short_description": "A flavorful curry made with mixed vegetables and aromatic spices.",
+      "ingredients": [
+        "200 g cauliflower",
+        "150 g potatoes",
+        "100 g carrots",
+        "200 ml coconut milk",
+        "50 g curry paste",
+        "1 onion",
+        "2 cloves garlic",
+        "Salt to taste"
+      ],
+      "preparing_time": "40 min",
+      "calories": "300 calories"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_image": "https://i.ibb.co.com/QfHKLd7/Rectangle-20170.png",
+      "recipe_name": "Beef Tacos",
+      "short_description": "Crispy tacos filled with seasoned beef and fresh toppings.",
+      "ingredients": [
+        "500 g ground beef",
+        "8 taco shells",
+        "100 g lettuce",
+        "100 g cheddar cheese",
+        "50 g salsa",
+        "50 g sour cream",
+        "1 tsp taco seasoning"
+      ],
+      "preparing_time": "20 min",
+      "calories": "400 calories"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_image": "https://i.ibb.co.com/FnX5qq7/Rectangle-20170-1.png",
+      "recipe_name": "Mango Smoothie",
+      "short_description": "A refreshing mango smoothie perfect for a summer day.",
+      "ingredients": [
+        "200 g ripe mango",
+        "200 ml milk",
+        "100 g yogurt",
+        "1 tbsp honey",
+        "5 ice cubes"
+      ],
+      "preparing_time": "10 min",
+      "calories": "180 calories"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_image": "https://i.ibb.co.com/QfHKLd7/Rectangle-20170.png",
+      "recipe_name": "Chocolate Brownies",
+      "short_description": "Rich and fudgy chocolate brownies with a crispy crust.",
+      "ingredients": [
+        "200 g dark chocolate",
+        "150 g butter",
+        "200 g sugar",
+        "3 large eggs",
+        "100 g all-purpose flour",
+        "30 g cocoa powder",
+        "1 tsp vanilla extract",
+        "Pinch of salt"
+      ],
+      "preparing_time": "35 min",
+      "calories": "450 calories"
+    }
+  ]

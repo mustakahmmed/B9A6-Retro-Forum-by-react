@@ -3,7 +3,7 @@
 const Navbar = () => {
     return (
         <div>
-       <section className="flex justify-between items-center w-10/12 mx-auto my-7">
+       <section className="flex justify-between items-center w-10/12 mx-auto">
             <div>
               <button className="text-5xl font-bold px-5 py-3 rounded-xl hover:bg-slate-200">Recipe Calories</button>
             </div>
